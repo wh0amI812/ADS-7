@@ -1,1 +1,1 @@
-Здесь размещаются графики с результатами экспериментов
+[README.md](https://github.com/user-attachments/files/20638706/README.md)
